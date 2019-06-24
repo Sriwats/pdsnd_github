@@ -1,8 +1,8 @@
 ### Date created
-6/24/2019
+6/24/2019 18:30 hours
 
 ### Project Title
-City Bikeshare exploratory data analysis
+City Bikeshare exploratory data analysis final version
 
 ### Description
 This project is an exploratory data analysis exercise that analyzed bikeshare data across Washington DC, Chicago, and NYC to identify ridership patterns.  We do this through visualizing the data via bar charts, histograms, and box plots.
@@ -18,4 +18,5 @@ Blogs consulted:
 1) R Bloggers
 2) Hadley Wickham 
 3) StackOverflow
+4) Udacity mentor
 
