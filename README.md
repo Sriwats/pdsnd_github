@@ -14,5 +14,7 @@ Used raw data from
 3) chicago.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Blogs consulted:
+1) R Bloggers
+2) Hadley Wickham 
 
