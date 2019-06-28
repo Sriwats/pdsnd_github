@@ -19,4 +19,5 @@ Blogs consulted:
 2) Hadley Wickham 
 3) StackOverflow
 4) Udacity Mentor
+5) R Help
 
