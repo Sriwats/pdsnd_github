@@ -21,3 +21,4 @@ Blogs consulted:
 4) Udacity Mentor
 5) R Help
 
+
