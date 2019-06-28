@@ -2,7 +2,7 @@
 6/24/2019
 
 ### Project Title
-Bikeshare exploratory data analysis
+Bikeshare exploratory data analysis v1
 
 ### Description
 This project is an exploratory data analysis exercise to analyze bikeshare data across Washington DC, Chicago, and NYC.  We do this through visualizing the data via bar charts, histograms, and box plots.
