@@ -8,7 +8,7 @@ Bikeshare exploratory data analysis v1
 This project is an exploratory data analysis exercise to analyze bikeshare data across Washington DC, Chicago, and NYC.  We do this through visualizing the data via bar charts, histograms, and box plots.
 
 ### Files used
-Used raw data from
+Used raw data from Udacity
 1) new-york-city.csv
 2) Washington.csv
 3) chicago.csv
